@@ -1,4 +1,4 @@
-<h1 align="center">hey, I'm Carolina 👩‍💻✨</h1>
+<h1 align="center">hey, I'm ᴄᴀʀᴏʟɪɴᴀ 👩‍💻✨</h1>
 
 <p align="center">
   <em>Computer Engineering student who reads error messages for fun.</em><br>
