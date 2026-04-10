@@ -1,7 +1,6 @@
 <h1 align="center">hey, I'm ᴄᴀʀᴏʟɪɴᴀ 👩‍💻✨</h1>
 
 <p align="center">
-  <em>Computer Engineering student who reads error messages for fun.</em><br>
   Braga, Portugal · University of Minho · 2nd year
 </p>
 
@@ -34,7 +33,7 @@ while (curious) {
 
 ### 🌱 about me
 
-- 2nd year Computer Engineering student trying to understand how everything works 🔍
+- 2nd year Software Engineering student trying to understand how everything works 🔍
 - convinced that naming variables is the hardest part of coding :)
 - currently powered by caffeine and curiosity ☕
 
