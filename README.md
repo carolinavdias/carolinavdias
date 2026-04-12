@@ -33,7 +33,7 @@ while (curious) {
 
 ### 🌱 about me
 
-- 2nd year <a href="https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=5470&catid=16" target="_blank"><strong>Computer Engineering</strong></a> student trying to understand how everything works 🔍
+- 2nd year <a href="https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=5470&catid=16" target="_blank"><strong>Software Engineering</strong></a> student trying to understand how everything works 🔍
 - convinced that naming variables is the hardest part of coding :)
 - currently powered by caffeine and curiosity ☕
 
