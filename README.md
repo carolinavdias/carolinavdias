@@ -42,6 +42,7 @@ while (curious) {
 | 🇪🇺 | [Portal PRR](https://github.com/carolinavdias/eu-recovery-funds-portal) | Human-Computer Interaction | Vue 3 · Pinia · D3 |
 | 🏠 | [DomusControl](https://github.com/carolinavdias/domuscontrol-home-automation) | Object Oriented Programming | Java · MVC |
 | ⚙️ | [Process Orchestration System](https://github.com/carolinavdias/process-orchestration-system) | Operating Systems | C · Named Pipes |
+| 📈 | [Operations Research Models](https://github.com/carolinavdias/operations-research-models) | Operations Research | LPSolve |
 | ✈️ | [Airport & Flight Management](https://github.com/carolinavdias/airport-flight-management-system) | Informatics Laboratories III | C · GLib |
 | 🗺️ | [Mapa de Memórias](https://github.com/carolinavdias/travel-memories-database) | Databases | MySQL |
 | 🧩 | [Board Game Engine](https://github.com/carolinavdias/board-game-engine) | Informatics Laboratories II | C |
